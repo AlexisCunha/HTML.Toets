@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .nav {
+    width: 100%;
+  }
+  
+  .flex-box{
+    display: flex;
+    width: 100%;
+  }
+  
+  .nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+  .home{
+    background-color: red;
+    width: 16.6%;
+  }
+  
+  .diensten{
+    background-color: blue;
+    width:16.6%;
+  }
+  
+  .producten {
+    background-color: purple;
+    width:16.6%;
+  }
+  
+  .ons-team{
+    background-color: yellow;
+    width:16.6%;
+  }
+  
+  .onze-werkwijze{
+    background-color: green;
+    width:16.6%;
+  }
+  
+  .contact{
+    background-color: pink;
+    width: 16.6%;
+  }
+  

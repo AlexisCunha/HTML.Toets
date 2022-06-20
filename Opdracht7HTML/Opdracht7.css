@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .nav {
+    width: 100%;
+  }
+  
+  .grid-container {
+    grid-template-columns: auto auto auto auto auto auto;
+    display: grid;
+    padding: 0px;
+    text-align: center;
+    
+  }
+  
+  .nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+  }
+  .home{
+    background-color: red;
+   
+  }
+  
+  .diensten{
+    background-color: blue;
+   
+  }
+  
+  .producten {
+    background-color: purple;
+  
+  }
+  
+  .ons-team{
+    background-color: yellow;
+  
+  }
+  
+  .onze-werkwijze{
+    background-color: green;
+  
+  }
+  
+  .contact{
+    background-color: pink;
+  }
+  
+  
+  
